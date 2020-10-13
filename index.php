@@ -8,6 +8,9 @@ $gallery = $wms->galleryHomeView($link);
 $news = $wms->getNewsDataForHomePage($link);
 ?>
 <!-- banner slider Start Here -->
+<!-- banner slider Start Here -->
+<!-- banner slider Start Here -->
+<!-- banner slider Start Here -->
 <?php if(!empty($sliders)) { ?>
 
 <div class="banner">
